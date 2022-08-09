@@ -1,2 +1,2 @@
 # R-mMIMO
-supplement material for magazine paper
+supplementary material for magazine paper
